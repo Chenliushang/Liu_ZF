@@ -22,13 +22,13 @@
 
 ## 📌 个人简介 | About Me
 
-刘振方，工学博士，湖州师范大学信息工程学院学术副院长、副教授、硕士生导师。2023年于江南大学物联网工程学院获得控制科学与工程专业工学博士学位。
+刘振方，工学博士，湖州师范大学人工智能学院学术副院长、副教授、硕士生导师。2023年于江南大学物联网工程学院获得控制科学与工程专业工学博士学位。
 
-长期从事**多模态大模型（Multimodal Large Models）**、**智能光学感知（Intelligent Optical Perception / SORS / Raman）**&#x4EE5;及 **AI for Science（工业智能检测与农产品/食品无损分析）**&#x7684;前沿交叉研究。先后主持国家自然科学基金青年科学基金项目、浙江省教育厅一般科研项目、湖州市自然科学基金项目以及50万元以上重点企业委托横向课题，作为骨干参与国家重点研发计划子课题。在 *Analytica Chimica Acta*、*Food Control*、*Journal of Food Engineering* 等国际顶级/权威SCI期刊上发表学术论文20余篇（其中SCI收录10余篇），获授权发明专利多件；获浙江省科学技术进步奖三等奖2项、中国商业联合会科学技术一等奖1项、CCF容错计算杰出成果一等奖1项。
+长期从事**多模态大模型（Multimodal Large Models）**、**智能光学感知（Intelligent Optical Perception / SORS / Raman）**&#x4EE5;及 **AI for Science（工业智能检测与农业无损分析）**&#x7684;前沿交叉研究。先后主持国家自然科学基金青年科学基金项目、浙江省教育厅一般科研项目、湖州市自然科学基金项目以及50万元以上重点企业委托横向课题，作为骨干参与国家重点研发计划子课题。在 *Analytica Chimica Acta*、*Food Control*、*Journal of Food Engineering* 等国际顶级/权威SCI期刊上发表学术论文20余篇（其中SCI收录10余篇），获授权发明专利多件；获浙江省科学技术进步奖三等奖2项、中国商业联合会科学技术一等奖1项、CCF容错计算杰出成果一等奖1项。
 
 - 🔭 **当前重点攻关**：复杂包装下空间偏移拉曼光谱（SORS）深层信号解耦、大模型驱动的纺织布皮面料工业缺陷开集智能检测、交通潜藏危化品安检光谱智能感知。
-- 🎓 **人才培养与教学**：主讲《人工智能导论》、《Python程序设计》、《深度学习》、《自动控制原理》；指导学生多次获国家级/省级A类学科竞赛二等奖以上。
-- 🤝 **学术兼职与审稿**：中国计算机学会（CCF）会员，担任《Measurement》、《Spectrochimica Acta Part A (SAA)》、《ASABE》等知名期刊常任审稿人。
+- 🎓 **人才培养与教学**：主讲《Python程序设计》、《深度学习》、《自动控制原理》；指导学生多次获国家级/省级A类学科竞赛二等奖以上。
+- 🤝 **学术兼职与审稿**：中国计算机学会（CCF）会员，担任《Measurement》、《Spectrochimica Acta Part A (SAA)》等知名期刊常任审稿人。
 - 📬 **联系与交流**：欢迎有志于多模态大模型、计算机视觉、光谱智能感知方向的研究生、本科生及同行科研人员邮件联系交流（`03272@zjhu.edu.cn`）。
 
 ---
@@ -50,39 +50,11 @@
       <ul>  
         <li>空间偏移拉曼光谱（SORS）与线扫描高光谱成像技术</li>  
         <li>复杂包装物内部次表面信号分离与盲源分离（BSS/FastICA）算法</li>  
-        <li>面向安检、食品药品、农产品溯源的原位/手持式光谱仪器智能化</li>  
+        <li>面向安检、农产品溯源的原位/手持式光谱仪器智能化</li>  
       </ul>  
     </td>  
   </tr>  
 </table>
-
----
-
-## 🛠️ 技术栈与研究工具 | Tech Stack & Research Toolkit
-
-<div align="center">
-
-| 类别            | 核心技术 / 工具栈                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| :------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **编程语言**      | [Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) [C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white) [MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=flat-square\&logo=mathworks\&logoColor=white) [SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)                                          |
-| **深度学习 & 视觉** | [PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white) [HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black) [OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white) [Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white) |
-| **数据科学与计算**   | [NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white) [Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white) [SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square\&logo=scipy\&logoColor=white) [Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=python\&logoColor=white)                                        |
-| **研发与学术环境**   | [Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black) [Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white) [Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white) [LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square\&logo=latex\&logoColor=white)                                                         |
-
-</div>
-
----
-
-## 📊 GitHub 数据看板 | GitHub Analytics
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Liu_ZF\&show_icons=true\&theme=tokyonight\&hide_border=true\&title_color=60a5fa\&icon_color=38bdf8" alt="Liu_ZF's GitHub Stats" height="165" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liu_ZF\&layout=compact\&theme=tokyonight\&hide_border=true\&title_color=60a5fa" alt="Top Languages" height="165" />  
-</p>
-
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Liu_ZF\&theme=tokyonight\&hide_border=true" alt="Liu_ZF's GitHub Streak" />  
-</p>
 
 ---
 
@@ -141,18 +113,16 @@
 - 🥇 **中国商业联合会科学技术奖 一等奖** (部级, 2024)
 - 🎖️ **CCF 容错计算杰出成果 一等奖** (2025)
 - 👨‍🎓 **优秀指导教师**：指导研究生/本科生荣获A类及以上国家级科研竞赛二等奖、省级科研竞赛二等奖多项。
-
 ---
 
 ## 🎓 教育背景与任职经历 | Education & Experience
 
 ```
-2026.03 – 至今     湖州师范大学 信息工程学院 / 人工智能学院    学术副院长、副教授
+2026.03 – 至今     湖州师范大学 人工智能学院                 学术副院长、副教授
 2024.09 – 2026.02  湖州师范学院 信息工程学院                 人工智能系副主任、副教授
 2023.08 – 2024.08  湖州师范学院 信息工程学院                 讲师
 2019.09 – 2023.08  江南大学 物联网工程学院 控制科学与工程     工学博士 (Ph.D.)
 2017.09 – 2019.09  江南大学 物联网工程学院 控制科学与工程     工学硕士 (M.S.)
-2013.09 – 2017.07  青岛理工大学 自动化学院 自动化专业        工学学士 (B.S.)
 ```
 
 ---
@@ -160,27 +130,20 @@
 ## 📖 承担教学 | Teaching
 
 - **主讲本科生 / 研究生核心课程**：
-  - 《人工智能导论》(Introduction to Artificial Intelligence)
   - 《Python程序设计》(Python Programming)
   - 《深度学习》(Deep Learning)
   - 《自动控制原理》(Principles of Automatic Control)
-
 ---
 
 ## 🌐 学术兼职 | Professional Activities
 
 - **专业学会**：中国计算机学会（CCF）会员
-- **期刊审稿**：
-  - 《Measurement》
-  - 《Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy (SAA)》
-  - 《Transactions of the ASABE》
-
 ---
 
 ## 📬 联系方式 | Contact
 
 <p align="center">  
-  <b>📍 地址</b>: 浙江省湖州市吴兴区二环东路759号 湖州师范大学信息工程学院  
+  <b>📍 地址</b>: 浙江省湖州市吴兴区二环东路759号 湖州师范大学人工智能学院  
   
   <b>📧 电子邮箱</b>: <a href="mailto:03272@zjhu.edu.cn">03272@zjhu.edu.cn</a>  
   
