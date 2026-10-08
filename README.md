@@ -9,7 +9,7 @@
 <p align="center">  
   <a href="mailto:03272@zjhu.edu.cn"><img src="https://img.shields.io/badge/Email-03272%40zjhu.edu.cn-0078D4?style=flat-square\&logo=microsoftoutlook\&logoColor=white" alt="Email"></a>  
   <a href="https://github.com/Liu_ZF"><img src="https://img.shields.io/badge/GitHub-Liu\_\_ZF-181717?style=flat-square\&logo=github\&logoColor=white" alt="GitHub"></a>  
-  <a href="http://www.zjhu.edu.cn"><img src="https://img.shields.io/badge/Affiliation-Huzhou%20University-8A1C14?style=flat-square\&logo=google-scholar\&logoColor=white" alt="Affiliation"></a>  
+  <a href="http://www.zjhu.edu.cn"><img src="https://img.shields.io/badge/Affiliation-Huzhou%20NormalUniversity-8A1C14?style=flat-square\&logo=google-scholar\&logoColor=white" alt="Affiliation"></a>  
   <img src="https://img.shields.io/badge/Member-CCF-005BAC?style=flat-square" alt="CCF Member">  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Liu_ZF.Liu_ZF" alt="Visitor Count">  
 </p>
