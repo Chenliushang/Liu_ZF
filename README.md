@@ -3,7 +3,7 @@
 <p align="center">  
   <b>Ph.D. in Control Science & Engineering | Associate Professor & Academic Vice Dean</b>  
   
-  <i>School of Information Engineering / School of Artificial Intelligence, Huzhou University</i>  
+  <i>School of Artificial Intelligence, Huzhou Normal University</i>  
 </p>
 
 <p align="center">  
